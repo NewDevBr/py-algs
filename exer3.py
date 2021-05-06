@@ -1,0 +1,6 @@
+print("***** Maior entre três números *****")
+a = int(input("Digite um número: "))
+b = int(input("Digite outro número: "))
+c = int(input("Digite outro número: "))
+highest = max(a, b, c)
+print("O maior número é: ", highest)
